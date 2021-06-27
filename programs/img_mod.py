@@ -20,4 +20,4 @@ for i in range(50):
     image[i][0] = [0, 0, 0]
 
 
-    
+
